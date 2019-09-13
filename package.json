@@ -1,0 +1,22 @@
+{
+  "name": "git-sad",
+  "version": "1.0.0",
+  "description": "Node CLI npm package management experiment #1",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iTrauco/git-sad.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "package",
+    "management"
+  ],
+  "author": "Chris Trauco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iTrauco/git-sad/issues"
+  },
+  "homepage": "https://github.com/iTrauco/git-sad#readme"
+}
