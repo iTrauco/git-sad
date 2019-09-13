@@ -1,6 +1,19 @@
 # git-sad
 
-An npm package
+An npm package experiment for node automation and scripting experiments.
 
-## Purpose
-Testing 
+[NPM](http://bit.ly/2NcZsb1)
+[GitHub](http://bit.ly/2UPHLQ1)
+
+### Install
+
+```
+npm install -g git-sad
+```
+
+### Usage
+```
+now-sad
+```
+
+### Example/Preview
