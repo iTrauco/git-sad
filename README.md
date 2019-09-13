@@ -13,7 +13,7 @@ npm install -g git-sad
 
 ### Usage
 ```
-now-sad
+git-sad
 ```
 
 ### Example/Preview
